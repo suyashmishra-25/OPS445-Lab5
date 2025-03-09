@@ -1,0 +1,4 @@
+f = open('file1.txt', 'a')
+f.write('This is the 4th line\n')
+f.write('Last line in file\n')
+f.close()
